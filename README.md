@@ -1,0 +1,1 @@
+# schoolapp-jax-rs-hibernate
